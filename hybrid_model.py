@@ -1,6 +1,6 @@
 """
 hybrid_model.py
-Author: Anonymous
+Author: Alex Liu
 Description: Hybrid molecular property prediction using concatenated
 RDKit descriptors and ECFP fingerprints. Supports classification (BBBP)
 and regression (ESOL, FreeSolv) tasks using Random Forest models.
