@@ -1,0 +1,13 @@
+# Core ML & Data Libraries
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+
+# Chemistry Libraries
+rdkit==2023.09.5
+
+# DeepChem for molecular datasets
+deepchem==2.7.1
+
+# Progress bar (optional but used)
+tqdm==4.66.4
